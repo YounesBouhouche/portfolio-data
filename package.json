@@ -1,0 +1,7 @@
+{
+    "name": "portfolio-data",
+    "type": "module",
+    "scripts": {
+        "generate": "node scripts/generate.js"
+    }
+}

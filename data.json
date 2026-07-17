@@ -1,8 +1,5 @@
 {
-  "meta": {
-    "owner": "Younes Bouhouche",
-    "updatedAt": "2026-07-17"
-  },
+  "generatedAt": "2026-07-17T16:51:20.722Z",
   "projects": [
     {
       "repo": "YounesBouhouche/SecureVault",
@@ -32,7 +29,9 @@
         "problem": "TODO",
         "approach": "TODO",
         "outcome": "TODO"
-      }
+      },
+      "heroImage": null,
+      "screenshots": []
     },
     {
       "repo": "roadside-assistance-platform/roadside-assistance-android-client",
@@ -70,7 +69,23 @@
         "problem": "TODO",
         "approach": "TODO",
         "outcome": "TODO"
-      }
+      },
+      "heroImage": "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/hero.webp",
+      "screenshots": [
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-1.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-10.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-11.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-12.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-13.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-2.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-3.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-4.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-5.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-6.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-7.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-8.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-9.webp"
+      ]
     },
     {
       "repo": "caravan-team-2/android-app",
@@ -100,7 +115,21 @@
         "problem": "TODO",
         "approach": "TODO",
         "outcome": "TODO"
-      }
+      },
+      "heroImage": "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/hero.webp",
+      "screenshots": [
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-1.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-10.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-11.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-2.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-3.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-4.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-5.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-6.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-7.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-8.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-9.webp"
+      ]
     },
     {
       "repo": "YounesBouhouche/MusicPlayer",
@@ -123,7 +152,14 @@
         "problem": "TODO",
         "approach": "TODO",
         "outcome": "TODO"
-      }
+      },
+      "heroImage": "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/musicplayer/hero.webp",
+      "screenshots": [
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/musicplayer/musicplayer-1.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/musicplayer/musicplayer-2.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/musicplayer/musicplayer-3.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/musicplayer/musicplayer-4.webp"
+      ]
     }
   ]
 }
