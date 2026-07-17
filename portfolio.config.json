@@ -26,6 +26,7 @@
     },
     {
       "repo": "roadside-assistance-platform/roadside-assistance-android-client",
+      "name": "Roadside assistance platform",
       "featured": true,
       "order": 2,
       "overrideDescription": "Real-time roadside assistance platform with GPS tracking, live chat via RabbitMQ, and Mapbox SDK integration.",
