@@ -7,6 +7,7 @@
     {
       "repo": "YounesBouhouche/SecureVault",
       "featured": true,
+      "category": "Mobile App",
       "order": 1,
       "overrideDescription": "AES-256 encrypted vault with biometric authentication, SQLCipher, Android Keystore, and Clean Architecture + MVVM.",
       "technologies": [
@@ -36,6 +37,7 @@
     {
       "repo": "roadside-assistance-platform/roadside-assistance-android-client",
       "name": "Roadside assistance platform",
+      "category": "Mobile App",
       "featured": true,
       "order": 2,
       "overrideDescription": "Collaborative university project for roadside assistance, featuring real-time communication and location tracking.",
@@ -72,6 +74,7 @@
     {
       "repo": "caravan-team-2/android-app",
       "name": "Assurini",
+      "category": "Mobile App",
       "featured": true,
       "order": 3,
       "overrideDescription": "Hackathon car insurance app with Apollo GraphQL and MLKit integration.",
@@ -99,6 +102,7 @@
     },
     {
       "repo": "YounesBouhouche/MusicPlayer",
+      "category": "Mobile App",
       "overrideDescription": "Media3-based music player with Material 3 design, Room persistence, Koin dependency injection and DeezerAPI integration for artist information.",
       "technologies": [
         "Kotlin",
