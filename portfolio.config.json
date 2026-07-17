@@ -9,14 +9,23 @@
       "featured": true,
       "order": 1,
       "overrideDescription": "AES-256 encrypted vault with biometric authentication, SQLCipher, Android Keystore, and Clean Architecture + MVVM.",
-      "techStack": [
+      "technologies": [
         "Kotlin",
         "Jetpack Compose",
         "SQLCipher",
         "BiometricPrompt",
+        "Keystore",
         "MVVM",
         "Clean Architecture"
       ],
+      "features": [
+        "Biometric + PIN authentication with auto lock-down mechanism",
+        "AES-256 file encryption",
+        "SQLCipher encrypted database for file metadata",
+        "Android Keystore for hardware-isolated key storage and generation",
+        "In-app file viewer, decrypted on demand"
+      ],
+      "downloadLink": "https://github.com/YounesBouhouche/SecureVault/releases/",
       "extraLinks": [],
       "content": {
         "problem": "TODO",
@@ -29,14 +38,57 @@
       "name": "Roadside assistance platform",
       "featured": true,
       "order": 2,
-      "overrideDescription": "Real-time roadside assistance platform with GPS tracking, live chat via RabbitMQ, and Mapbox SDK integration.",
-      "techStack": [
+      "overrideDescription": "Collaborative university project for roadside assistance, featuring real-time communication and location tracking.",
+      "technologies": [
         "Kotlin",
         "Jetpack Compose",
         "RabbitMQ",
         "Mapbox",
         "Koin",
-        "Ktor"
+        "Ktor",
+        "MLKit",
+        "CameraX"
+      ],
+      "features": [
+        "Real-time assistance requests with GPS tracking",
+        "Live chat communication between users and service providers using RabbitMQ",
+        "Mapbox integration for displaying provider locations and navigation",
+        "MVVM architecture for maintainable code structure",
+        "Clean Architecture for scalable and testable code",
+        "MLKit for on-device machine learning capabilities"
+      ],
+      "extraLinks": [
+        {
+          "label": "GitHub Organization",
+          "url": "https://github.com/roadside-assistance-platform"
+        }
+      ],
+      "content": {
+        "problem": "TODO",
+        "approach": "TODO",
+        "outcome": "TODO"
+      }
+    },
+    {
+      "repo": "caravan-team-2/android-app",
+      "name": "Assurini",
+      "featured": true,
+      "order": 3,
+      "overrideDescription": "Hackathon car insurance app with Apollo GraphQL and MLKit integration.",
+      "technologies": [
+        "Kotlin",
+        "Jetpack Compose",
+        "Apollo GraphQL",
+        "MLKit",
+        "CameraX"
+      ],
+      "features": [
+        "User authentication and profile management",
+        "Digital ID verification using MLKit",
+        "Document upload, storage, and retrieval",
+        "View and manage insurance policies",
+        "File claims with image recognition for damage assessment",
+        "Real-time notifications and updates on claim status"
       ],
       "extraLinks": [],
       "content": {
@@ -46,16 +98,19 @@
       }
     },
     {
-      "repo": "caravan-team-2/android-app",
-      "featured": false,
-      "order": 3,
-      "overrideDescription": "Hackathon car insurance app with Apollo GraphQL and MLKit integration.",
-      "techStack": [
+      "repo": "YounesBouhouche/MusicPlayer",
+      "overrideDescription": "Media3-based music player with Material 3 design, Room persistence, Koin dependency injection and DeezerAPI integration for artist information.",
+      "technologies": [
         "Kotlin",
         "Jetpack Compose",
-        "Apollo GraphQL",
-        "MLKit"
+        "Material 3",
+        "MVVM",
+        "Room",
+        "Koin",
+        "ExoPlayer",
+        "Ktor"
       ],
+      "featured": false,
       "extraLinks": [],
       "content": {
         "problem": "TODO",
