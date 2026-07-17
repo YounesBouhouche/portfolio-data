@@ -1,15 +1,22 @@
 {
   "meta": {
-    "owner": "younes-bouhouche",
+    "owner": "Younes Bouhouche",
     "updatedAt": "2026-07-17"
   },
   "projects": [
     {
-      "repo": "younes-bouhouche/secure-vault",
+      "repo": "YounesBouhouche/SecureVault",
       "featured": true,
       "order": 1,
       "overrideDescription": "AES-256 encrypted vault with biometric authentication, SQLCipher, Android Keystore, and Clean Architecture + MVVM.",
-      "techStack": ["Kotlin", "Jetpack Compose", "SQLCipher", "BiometricPrompt", "MVVM", "Clean Architecture"],
+      "techStack": [
+        "Kotlin",
+        "Jetpack Compose",
+        "SQLCipher",
+        "BiometricPrompt",
+        "MVVM",
+        "Clean Architecture"
+      ],
       "extraLinks": [],
       "content": {
         "problem": "TODO",
@@ -18,11 +25,18 @@
       }
     },
     {
-      "repo": "younes-bouhouche/roadside-assistance",
+      "repo": "roadside-assistance-platform/roadside-assistance-android-client",
       "featured": true,
       "order": 2,
       "overrideDescription": "Real-time roadside assistance platform with GPS tracking, live chat via RabbitMQ, and Mapbox SDK integration.",
-      "techStack": ["Kotlin", "Jetpack Compose", "RabbitMQ", "Mapbox", "Koin", "Ktor"],
+      "techStack": [
+        "Kotlin",
+        "Jetpack Compose",
+        "RabbitMQ",
+        "Mapbox",
+        "Koin",
+        "Ktor"
+      ],
       "extraLinks": [],
       "content": {
         "problem": "TODO",
@@ -31,11 +45,16 @@
       }
     },
     {
-      "repo": "younes-bouhouche/assurini",
+      "repo": "caravan-team-2/android-app",
       "featured": false,
       "order": 3,
-      "overrideDescription": "Hackathon insurance app with Apollo GraphQL and MLKit integration.",
-      "techStack": ["Kotlin", "Jetpack Compose", "Apollo GraphQL", "MLKit"],
+      "overrideDescription": "Hackathon car insurance app with Apollo GraphQL and MLKit integration.",
+      "techStack": [
+        "Kotlin",
+        "Jetpack Compose",
+        "Apollo GraphQL",
+        "MLKit"
+      ],
       "extraLinks": [],
       "content": {
         "problem": "TODO",
