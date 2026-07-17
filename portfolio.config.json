@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "owner": "younes-bouhouche",
+    "updatedAt": "2026-07-17"
+  },
+  "projects": [
+    {
+      "repo": "younes-bouhouche/secure-vault",
+      "featured": true,
+      "order": 1,
+      "overrideDescription": "AES-256 encrypted vault with biometric authentication, SQLCipher, Android Keystore, and Clean Architecture + MVVM.",
+      "techStack": ["Kotlin", "Jetpack Compose", "SQLCipher", "BiometricPrompt", "MVVM", "Clean Architecture"],
+      "extraLinks": [],
+      "content": {
+        "problem": "TODO",
+        "approach": "TODO",
+        "outcome": "TODO"
+      }
+    },
+    {
+      "repo": "younes-bouhouche/roadside-assistance",
+      "featured": true,
+      "order": 2,
+      "overrideDescription": "Real-time roadside assistance platform with GPS tracking, live chat via RabbitMQ, and Mapbox SDK integration.",
+      "techStack": ["Kotlin", "Jetpack Compose", "RabbitMQ", "Mapbox", "Koin", "Ktor"],
+      "extraLinks": [],
+      "content": {
+        "problem": "TODO",
+        "approach": "TODO",
+        "outcome": "TODO"
+      }
+    },
+    {
+      "repo": "younes-bouhouche/assurini",
+      "featured": false,
+      "order": 3,
+      "overrideDescription": "Hackathon insurance app with Apollo GraphQL and MLKit integration.",
+      "techStack": ["Kotlin", "Jetpack Compose", "Apollo GraphQL", "MLKit"],
+      "extraLinks": [],
+      "content": {
+        "problem": "TODO",
+        "approach": "TODO",
+        "outcome": "TODO"
+      }
+    }
+  ]
+}
