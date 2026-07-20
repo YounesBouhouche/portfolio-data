@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T09:48:25.878Z",
+  "generatedAt": "2026-07-20T09:52:00.675Z",
   "projects": [
     {
       "repo": "YounesBouhouche/SecureVault",
@@ -31,7 +31,7 @@
         "approach": "TODO",
         "outcome": "TODO"
       },
-      "heroImage": null,
+      "heroImage": "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/hero.jpg",
       "screenshots": [
         "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151036_SecureVault.jpg",
         "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151043_SecureVault.jpg",
