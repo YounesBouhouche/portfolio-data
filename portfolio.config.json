@@ -6,6 +6,7 @@
   "projects": [
     {
       "repo": "YounesBouhouche/SecureVault",
+      "assets": "securevault",
       "featured": true,
       "category": "Mobile App",
       "order": 1,
