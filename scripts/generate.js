@@ -16,7 +16,7 @@ const projects = config.projects.map((project) => {
     const assetsFolder = join('assets', project.assets)
 
     if (!existsSync(assetsFolder)) {
-        console.warn(`⚠️  No assets folder found for: ${project.assets}`)
+        console.warn(`No assets folder found for: ${project.assets}`)
         return { ...project, heroImage: null, screenshots: [] }
     }
 
