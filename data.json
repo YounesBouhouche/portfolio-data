@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T09:52:00.675Z",
+  "generatedAt": "2026-07-20T10:03:11.392Z",
   "projects": [
     {
       "repo": "YounesBouhouche/SecureVault",
@@ -31,27 +31,28 @@
         "approach": "TODO",
         "outcome": "TODO"
       },
-      "heroImage": "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/hero.jpg",
+      "heroImage": "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/hero.webp",
+      "thumbnail": "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/hero-thumb.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151036_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151043_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151049_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151056_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151102_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151142_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151151_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151157_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151201_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151209_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151218_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151234_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151454_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151512_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151608_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151637_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151644_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/Screenshot_20260703_151658_SecureVault.jpg",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/securevault/app-icon.jpg"
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151036_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151043_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151049_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151056_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151102_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151142_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151151_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151157_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151201_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151209_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151218_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151234_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151454_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151512_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151608_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151637_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151644_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/Screenshot_20260703_151658_SecureVault.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/securevault/app-icon.webp"
       ]
     },
     {
@@ -91,21 +92,23 @@
         "approach": "TODO",
         "outcome": "TODO"
       },
-      "heroImage": "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/hero.webp",
+      "heroImage": "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/depango/hero.webp",
+      "thumbnail": "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/depango/hero-thumb.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-1.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-10.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-11.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-12.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-13.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-2.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-3.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-4.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-5.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-6.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-7.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-8.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/depango/depango-9.webp"
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/depango/app-icon.svg",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/depango/depango-1.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/depango/depango-10.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/depango/depango-11.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/depango/depango-12.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/depango/depango-13.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/depango/depango-2.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/depango/depango-3.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/depango/depango-4.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/depango/depango-5.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/depango/depango-6.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/depango/depango-7.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/depango/depango-8.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/depango/depango-9.webp"
       ]
     },
     {
@@ -137,19 +140,21 @@
         "approach": "TODO",
         "outcome": "TODO"
       },
-      "heroImage": "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/hero.webp",
+      "heroImage": "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/assurini/hero.webp",
+      "thumbnail": "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/assurini/hero-thumb.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-1.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-10.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-11.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-2.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-3.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-4.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-5.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-6.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-7.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-8.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/assurini/assurini-9.webp"
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/assurini/app-icon.svg",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/assurini/assurini-1.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/assurini/assurini-10.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/assurini/assurini-11.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/assurini/assurini-2.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/assurini/assurini-3.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/assurini/assurini-4.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/assurini/assurini-5.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/assurini/assurini-6.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/assurini/assurini-7.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/assurini/assurini-8.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/assurini/assurini-9.webp"
       ]
     },
     {
@@ -174,12 +179,14 @@
         "approach": "TODO",
         "outcome": "TODO"
       },
-      "heroImage": "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/musicplayer/hero.webp",
+      "heroImage": "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/musicplayer/hero.webp",
+      "thumbnail": "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/musicplayer/hero-thumb.webp",
       "screenshots": [
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/musicplayer/musicplayer-1.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/musicplayer/musicplayer-2.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/musicplayer/musicplayer-3.webp",
-        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/assets/musicplayer/musicplayer-4.webp"
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/musicplayer/app-icon.svg",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/musicplayer/musicplayer-1.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/musicplayer/musicplayer-2.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/musicplayer/musicplayer-3.webp",
+        "https://raw.githubusercontent.com/YounesBouhouche/portfolio-data/main/dist/assets/musicplayer/musicplayer-4.webp"
       ]
     }
   ]
