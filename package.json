@@ -3,5 +3,8 @@
     "type": "module",
     "scripts": {
         "generate": "node scripts/generate.js"
+    },
+    "dependencies": {
+        "sharp": "^0.35.3"
     }
 }
